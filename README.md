@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anirudh.</h1>
 <h3 align="center">A passionate Full-Stack Developer and Cybersecurity Analyst from India.</h3>
 <img align= "right" alt="Full-Stack" width="400" src="https://www.btreesystems.com/wp-content/uploads/2022/07/role-of-full-stack-developer.png">
-- 🔭 Previously worked on Royal Cyber Inc **Classified Website**
+- 🔭 Previously worked in Royal Cyber As Security Analyst. 
 
-- 🌱 I’m currently learning **I’m currently learning advanced topics in Cybersecurity and Full-Stack Development.**
+- 🌱 I’m currently learning **I’m currently learning advanced topics in Cybersecurity.**
 
 - 💬 Ask me about ****JavaScript, Spring Boot, Angular, Java, and Cybersecurity.****
 
