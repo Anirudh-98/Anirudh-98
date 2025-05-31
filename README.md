@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh.</h1>
-<h3 align="center">A passionate Cybersecurity consultant from India.</h3>
+<h3 align="center">A passionate JAVA FULL STACK DEVELOPER from India.</h3>
 <!-- <img align= "right" alt="Full-Stack" width="400" src="https://www.btreesystems.com/wp-content/uploads/2022/07/role-of-full-stack-developer.png"> -->
-- 🔭 Previously worked in Royal Cyber As cybersecurity consultant. 
+- 🔭 Previously worked in Royal Cyber As Java Full Stack Developer. 
 
 - 🌱 I’m currently learning **I’m currently learning advanced topics in Cybersecurity.**
 
